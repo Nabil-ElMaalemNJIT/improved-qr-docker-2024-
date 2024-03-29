@@ -4,7 +4,7 @@ FROM python:3.12-slim-bullseye
 # Set the working directory to /app in the container
 WORKDIR /app
 
-# Create a non-root user named 'myuser' with an home directory
+# Create a non-root user named 'myuser' with a home directory
 RUN useradd -m myuser
 
 # Copy the requirements.txt file to the container to install Python dependencies

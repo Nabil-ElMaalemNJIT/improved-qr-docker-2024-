@@ -14,7 +14,7 @@ the target website. You must make your program generate a QR code that takes som
 
 PUT YOUR QR CODE IMAGE
 
-![QRCode_20240329220603.png](qr_codes%2FQRCode_20240329220603.png)
+![image](https://github.com/Nabil-ElMaalemNJIT/improved-qr-docker-2024-/assets/123345748/ce098ae4-fa8a-4757-a9a0-a721f5ec059c)
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
 
